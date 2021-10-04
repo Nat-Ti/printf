@@ -9,8 +9,8 @@
 
 <hr>
 
-# Authors
+# Author
 
-- Elnatan Samuel
+- Nati Ti
 
 <hr>
